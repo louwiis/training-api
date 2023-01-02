@@ -38,9 +38,13 @@ Create a new participant to a training in the application.
 
 ```json
 {
+    "training_id": 3786,
     "firstName": "John",
     "lastName": "Doe",
     "company": "Acme",
+    "updated_at": "2023-01-02T22:12:21.000000Z",
+    "created_at": "2023-01-02T22:12:21.000000Z",
+    "id": 28
 }
 ```
 
@@ -76,5 +80,3 @@ Create a new participant to a training in the application.
     ]
 }
 ```
-
-
