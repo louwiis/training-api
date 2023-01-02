@@ -4,6 +4,8 @@ Here you will find every endpoint available in the API.
 I've let you a message at the home route at `http://localhost:8000/`. 
 Sorry one more time (you will see why in a moment) and thank you for your patience :)
 
+By the way, the project can be launched with `php -S localhost:8000 -t public` in the root directory.
+
 ## Endpoints
 
 ### Training Endpoints
